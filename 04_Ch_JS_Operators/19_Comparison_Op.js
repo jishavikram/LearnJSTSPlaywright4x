@@ -14,3 +14,9 @@ domin === pizzahut // (type and content)
 console.log(5 == "5");  // true
 console.log(5 === "5"); // false
 
+// ! -> not char
+console.log(5 != "5"); // value
+console.log(5 !== "5"); // (with !, == actuall ===) !===
+
+
+console.log(5 === 5);
